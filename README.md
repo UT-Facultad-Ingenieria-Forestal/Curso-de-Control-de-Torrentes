@@ -7,17 +7,19 @@
 
 # Tabla de Contenido
 
-## [Unidad 1. Monitoreo de Deslizamientos y Evaluacion del Riesgo](#unidad-1-monitoreo-de-deslizamientos-y-evaluacion-del-riesgo)
-## [Unidad 2. Observaciones Satelitales de Deslizamientos de Tierra](#unidad-2-observaciones-satelitales-de-deslizamientos-de-tierra)
-## [Unidad 3. Datos Auxiliares](#unidad-3-Datos-Auxiliares)
-## [Unidad 4. Mapeo de la Ocurrencia de Deslizamientos Usando Observaciones de la Tierra](#unidad-4-Mapeo-de-la-Ocurrencia-de-Deslizamientos-Usando-Observaciones-de-la-Tierra)
-## [Unidad 5. Susceptibilidad a Deslizamientos](#unidad-5-Susceptibilidad-a-Deslizamientos)
-## [Unidad 6. Modelos de Riesgo Dinámicos](#unidad-6-Modelos-de-Riesgo-Dinámicos)
-## [Trabajo Práctico 1](#Trabajo-Práctico-1)
+# Tabla de Contenido
+
+- [Unidad 1. Monitoreo de Deslizamientos y Evaluacion del Riesgo](#unidad-1-monitoreo-de-deslizamientos-y-evaluacion-del-riesgo)
+- [Unidad 2. Observaciones Satelitales de Deslizamientos de Tierra](#unidad-2-observaciones-satelitales-de-deslizamientos-de-tierra)
+- [Unidad 3. Datos Auxiliares](#unidad-3-datos-auxiliares)
+- [Unidad 4. Mapeo de la Ocurrencia de Deslizamientos Usando Observaciones de la Tierra](#unidad-4-mapeo-de-la-ocurrencia-de-deslizamientos-usando-observaciones-de-la-tierra)
+- [Unidad 5. Susceptibilidad a Deslizamientos](#unidad-5-susceptibilidad-a-deslizamientos)
+- [Unidad 6. Modelos de Riesgo Dinámicos](#unidad-6-modelos-de-riesgo-dinamicos)
+- [Trabajo Práctico 1](#trabajo-practico-1)
 
 ---
 
-## Unidad 1. Monitoreo de Deslizamientos y Evaluacion del Riesgo
+## Unidad 1. Monitoreo de Deslizamientos y Evaluación del Riesgo
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
