@@ -17,7 +17,7 @@
 
 ---
 
-## Unidad 1. Monitoreo de Deslizamientos y Evaluación del Riesgo
+## Unidad 1. Monitoreo de Deslizamientos y Evaluacion del Riesgo
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
