@@ -1,4 +1,3 @@
-# Curso de Corrección de Torrentes
 # <h1 align="center"> CURSO DE CORRECCIÓN DE TORRENTES
 
 <p align="center">
@@ -10,20 +9,23 @@
 
 ![image](https://github.com/user-attachments/assets/593f8210-89e3-4dcb-af4d-7a1b23fcfacd)
 
+![image](https://github.com/user-attachments/assets/0dd3b7ba-4ef5-47c6-9919-f474f2ce8467)
+
+![image](https://github.com/user-attachments/assets/092e7e90-9a63-40c5-9ea5-855f05b560b7)
+
+![image](https://github.com/user-attachments/assets/acfe3d64-5e14-4524-9d50-db9fb626c1e2)
+Modelos de Riesgo Dinámicos
+![image](https://github.com/user-attachments/assets/dba5d75c-46a2-4dc6-9ca3-dc7d42840052)
+
 
 # Tabla de Contenido
 
 ## [Unidad 1. Monitoreo de Deslizamientos y Evaluación del Riesgo](#unidad-1-Monitoreo-de-Deslizamientos-y-Evaluación-del-Riesgo)
 ## [Unidad 2. Observaciones Satelitales de Deslizamientos de Tierra](#unidad-2-Observaciones-Satelitales-de-Deslizamientos-de-Tierra)
-## [Unidad 3. Evaporación y Transpiración](#unidad-3-evaporacion-y-transpiracion)
-## [Unidad 4. Movimiento del Agua en el Suelo](#unidad-4-movimiento-del-agua-en-el-suelo)
-## [Unidad 5. Caudal](#unidad-5-caudal)
-## [Unidad 6. Cuenca y Red de Drenaje](#unidad-6-cuenca-y-red-de-drenaje)
-## [Unidad 7. Conceptos Hidrogeológicos](#unidad-7-conceptos-hidrogeologicos)
-## [Unidad 8. Teoría del Flujo del Agua Subterránea](#unidad-8-teoria-del-flujo-del-agua-subterranea)
-## [Unidad 9. Modelación Numérica del Balance Hídrico](#unidad-9-modelacion-numerica-del-balance-hidrico)
-## [Salida Práctica](#salida-practica)
-## [Parcial Final](#parcial-final)
+## [Unidad 3. Datos Auxiliares](#unidad-3-Datos-Auxiliares)
+## [Unidad 4. Mapeo de la Ocurrencia de Deslizamientos Usando Observaciones de la Tierra](#unidad-4-Mapeo-de-la-Ocurrencia-de-Deslizamientos-Usando-Observaciones-de-la-Tierra)
+## [Unidad 5. Susceptibilidad a Deslizamientos](#unidad-5-Susceptibilidad-a-Deslizamientos)
+## [Unidad 6. Modelos de Riesgo Dinámicos](#unidad-6-Modelos-de-Riesgo-Dinámicos)
 
 ---
 
