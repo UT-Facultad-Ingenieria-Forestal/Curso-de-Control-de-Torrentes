@@ -13,6 +13,7 @@
 ## [Unidad 4. Mapeo de la Ocurrencia de Deslizamientos Usando Observaciones de la Tierra](#unidad-4-Mapeo-de-la-Ocurrencia-de-Deslizamientos-Usando-Observaciones-de-la-Tierra)
 ## [Unidad 5. Susceptibilidad a Deslizamientos](#unidad-5-Susceptibilidad-a-Deslizamientos)
 ## [Unidad 6. Modelos de Riesgo Dinámicos](#unidad-6-Modelos-de-Riesgo-Dinámicos)
+## [Trabajo Práctico 1](#Trabajo-Práctico-1)
 
 ---
 
@@ -30,3 +31,82 @@
  <a href="https://www.youtube.com/watch?v=2oKYXKKf28g" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
+
+
+## Unidad 2. Observaciones Satelitales de Deslizamientos de Tierra
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
+</p> 
+
+
+### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 1
+
+### Video 1
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=2oKYXKKf28g" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+## Unidad 3. Datos Auxiliares
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
+</p> 
+
+
+### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 1
+
+### Video 1
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=2oKYXKKf28g" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+## Unidad 4. Mapeo de la Ocurrencia de Deslizamientos Usando Observaciones de la Tierra
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
+</p> 
+
+
+### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 1
+
+### Video 1
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=2oKYXKKf28g" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+## Unidad 5. Susceptibilidad a Deslizamientos
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
+</p> 
+
+
+### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 1
+
+### Video 1
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=2oKYXKKf28g" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+## Unidad 6. Modelos de Riesgo Dinámicos
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
+</p> 
+
+
+### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 1
+
+### Video 1
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=2oKYXKKf28g" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+## Trabajo Práctico 1
+
