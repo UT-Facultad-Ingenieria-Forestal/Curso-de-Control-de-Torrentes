@@ -19,7 +19,6 @@
 ### [Unidad 6. Modelos de Riesgo Dinámicos](#unidad6)
 ### [Trabajo Práctico 1](#tp1)
 
-https://svs.gsfc.nasa.gov/vis/a020000/a020200/a020226/Landslide_final_59fps_prores.webm
 
 
 <a id="unidad1"></a>
