@@ -59,7 +59,7 @@
 ## Unidad 3. Datos Auxiliares
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
+  <img src="https://github.com/user-attachments/assets/829385ab-486c-4332-92d4-831d3077cad8"width="600">
 </p> 
 
 
