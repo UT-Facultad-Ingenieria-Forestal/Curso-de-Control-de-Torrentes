@@ -19,7 +19,7 @@
 
 ---
 
-#unidad-1-monitoreo-de-deslizamientos-y-evaluacion-del-riesgo
+<h2 id="unidad1">Unidad 1. Monitoreo de Deslizamientos y Evaluación del Riesgo</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
