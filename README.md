@@ -71,6 +71,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 
+### Video 2
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=Ir-3K0pjwOI" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
 <a id="unidad4"></a>
 ## Unidad 4. Mapeo de la Ocurrencia de Deslizamientos Usando Observaciones de la Tierra
 
