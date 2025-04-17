@@ -1,1 +1,1 @@
-# Curso-de-Control-de-Torrentes
+# Curso de Corrección de Torrentes
