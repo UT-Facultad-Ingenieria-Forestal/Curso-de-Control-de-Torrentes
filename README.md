@@ -22,7 +22,17 @@
   <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
 </p> 
 
-[Flujo de escombros](img/debris-flow.gif)
+# Monitoreo-de-Deslizamientos
+
+Este repositorio contiene materiales relacionados con el análisis y monitoreo de deslizamientos de tierra, utilizando datos satelitales y herramientas de teledetección, orientado al entendimiento de los diferentes tipos de movimientos en masa y su caracterización.
+
+## 📌 Flujo de Escombros (Debris Flow)
+
+Un **flujo de escombros** es una mezcla que se mueve rápidamente de agua, lodo, árboles y otros materiales que desciende por los valles y puede recorrer grandes distancias.
+
+![Flujo de escombros](img/debris-flow.gif)
+
+
 
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 1
