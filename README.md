@@ -16,11 +16,12 @@
 
 ---
 
-## Unidad 1. Introduccion y Balance Hidrico
+## Unidad 1. Monitoreo de Deslizamientos y Evaluación del Riesgo
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/24c5d71b-7ec4-4e77-96bc-af6a98781a33"width="600">
+  <img src="https://github.com/user-attachments/assets/5393fdee-b92e-4a3c-b92f-56c6351aa1a7"width="600">
 </p> 
+
 
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 1
