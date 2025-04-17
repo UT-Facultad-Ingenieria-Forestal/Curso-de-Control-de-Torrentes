@@ -22,7 +22,7 @@
   <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
 </p> 
 
-
+![Flujo de escombros](img/debris-flow.gif)
 
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 1
