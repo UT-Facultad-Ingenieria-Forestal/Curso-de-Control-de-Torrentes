@@ -1,7 +1,7 @@
 # <h1 align="center"> CURSO DE CORRECCIÓN DE TORRENTES
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/905e05bb-5de0-444a-9559-51af4a363eb6"width="600">
+  <img src="https://github.com/user-attachments/assets/ad453d0f-f91d-41cd-a6db-d94478482a60"width="600">
 </p> 
 
 
