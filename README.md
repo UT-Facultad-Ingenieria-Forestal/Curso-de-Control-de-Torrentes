@@ -81,7 +81,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 
-<h2 id="unidad1">Unidad 5. Susceptibilidad a Deslizamientos</h2>
+<h2 id="unidad5">Unidad 5. Susceptibilidad a Deslizamientos</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
