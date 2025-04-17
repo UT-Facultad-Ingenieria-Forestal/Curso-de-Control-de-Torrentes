@@ -8,7 +8,7 @@
 # Tabla de Contenido
 
 ## [Unidad 1. Monitoreo de Deslizamientos y Evaluacion del Riesgo](#unidad-1-Monitoreo-de-Deslizamientos-y-Evaluacion-del-Riesgo)
-[Unidad 2. Observaciones Satelitales de Deslizamientos de Tierra](#unidad-2-observaciones-satelitales-de-deslizamientos-de-tierra)
+## [Unidad 2. Observaciones Satelitales de Deslizamientos de Tierra](#unidad-2-observaciones-satelitales-de-deslizamientos-de-tierra)
 ## [Unidad 3. Datos Auxiliares](#unidad-3-Datos-Auxiliares)
 ## [Unidad 4. Mapeo de la Ocurrencia de Deslizamientos Usando Observaciones de la Tierra](#unidad-4-Mapeo-de-la-Ocurrencia-de-Deslizamientos-Usando-Observaciones-de-la-Tierra)
 ## [Unidad 5. Susceptibilidad a Deslizamientos](#unidad-5-Susceptibilidad-a-Deslizamientos)
@@ -33,7 +33,7 @@
 </a>
 
 
-## Unidad 2. Observaciones Satelitales de Deslizamientos de Tierra
+Unidad 2. Observaciones Satelitales de Deslizamientos de Tierra
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0d4d84c7-840c-482b-a439-96fda1f0f65f"width="600">
