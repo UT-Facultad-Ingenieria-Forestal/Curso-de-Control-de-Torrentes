@@ -88,8 +88,9 @@
 ## Unidad 4. Mapeo de la Ocurrencia de Deslizamientos Usando Observaciones de la Tierra
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
+  <img src="https://github.com/user-attachments/assets/c633ed6d-ea1b-4b2f-af75-a457d45bf1e1"width="600">
 </p> 
+
 
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 4
