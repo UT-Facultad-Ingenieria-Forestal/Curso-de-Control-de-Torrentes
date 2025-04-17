@@ -5,19 +5,6 @@
 </p> 
 
 
-![image](https://github.com/user-attachments/assets/82e9bbbc-f72b-4904-a30d-598baf43828c)
-
-![image](https://github.com/user-attachments/assets/593f8210-89e3-4dcb-af4d-7a1b23fcfacd)
-
-![image](https://github.com/user-attachments/assets/0dd3b7ba-4ef5-47c6-9919-f474f2ce8467)
-
-![image](https://github.com/user-attachments/assets/092e7e90-9a63-40c5-9ea5-855f05b560b7)
-
-![image](https://github.com/user-attachments/assets/acfe3d64-5e14-4524-9d50-db9fb626c1e2)
-Modelos de Riesgo Dinámicos
-![image](https://github.com/user-attachments/assets/dba5d75c-46a2-4dc6-9ca3-dc7d42840052)
-
-
 # Tabla de Contenido
 
 ## [Unidad 1. Monitoreo de Deslizamientos y Evaluación del Riesgo](#unidad-1-Monitoreo-de-Deslizamientos-y-Evaluación-del-Riesgo)
