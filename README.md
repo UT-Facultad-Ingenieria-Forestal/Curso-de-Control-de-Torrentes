@@ -36,8 +36,9 @@
 ## Unidad 2. Observaciones Satelitales de Deslizamientos de Tierra
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
+  <img src="https://github.com/user-attachments/assets/0d4d84c7-840c-482b-a439-96fda1f0f65f"width="600">
 </p> 
+
 
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 1
