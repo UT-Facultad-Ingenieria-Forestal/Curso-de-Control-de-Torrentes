@@ -129,9 +129,10 @@
 
 ### Video 1
 <p align="center">
- <a href="https://www.youtube.com/watch?v=2oKYXKKf28g" target="_blank">
+ <a href="https://www.youtube.com/watch?v=E6LaojSkZQQ" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
-<a id="tp1"></a>
+  
+  <a id="tp1"></a>
 ## Trabajo Práctico 1.
 
