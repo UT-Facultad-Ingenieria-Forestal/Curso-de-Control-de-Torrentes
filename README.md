@@ -47,7 +47,6 @@
 </p> 
 
 
-
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 2
 
 ### Video 1
@@ -55,6 +54,13 @@
  <a href="https://www.youtube.com/watch?v=vzfGMMEEz5w" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
+
+### Video 2
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=Hgf3k981Cvw" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
 
 <a id="unidad3"></a>
 ## Unidad 3. Datos Auxiliares
