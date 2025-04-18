@@ -9,8 +9,6 @@
 # Tabla de Contenido
 
 
-## Tabla de Contenido
-
 ### [Unidad 1. Monitoreo de Deslizamientos y Evaluación del Riesgo](#unidad1)
 ### [Unidad 2. Observaciones Satelitales de Deslizamientos de Tierra](#unidad2)
 ### [Unidad 3. Datos Auxiliares](#unidad3)
