@@ -61,6 +61,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 
+### Video 3
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=g1vR0xd-UjM" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
 
 <a id="unidad3"></a>
 ## Unidad 3. Datos Auxiliares
