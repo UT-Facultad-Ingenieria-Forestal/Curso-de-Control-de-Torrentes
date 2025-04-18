@@ -119,7 +119,7 @@
 ## Unidad 6. Modelos de Riesgo Dinámicos
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
+  <img src="https://github.com/user-attachments/assets/f23a1cf0-0444-45a0-beed-cbe59d60b7d9e"width="600">
 </p> 
 
 
@@ -127,7 +127,7 @@
 
 ### Video 1
 <p align="center">
- <a href="https://github.com/user-attachments/assets/372efe00-0adc-45fe-9b10-d457b0d8e75a" target="_blank">
+ <a href="https://www.youtube.com/watch?v=E6LaojSkZQQ" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 
