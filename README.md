@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/ad453d0f-f91d-41cd-a6db-d94478482a60"width="600">
 </p> 
 
-[Landslide_final_59fps_prores.webm](https://github.com/user-attachments/assets/cd16ef9f-719d-4498-b5e7-7bad509bc1a1)
+
 
 # Tabla de Contenido
 
@@ -22,9 +22,7 @@
 <a id="unidad1"></a>
 ## Unidad 1. Monitoreo de Deslizamientos y Evaluación del Riesgo
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
-</p> 
+[Landslide_final_59fps_prores.webm](https://github.com/user-attachments/assets/cd16ef9f-719d-4498-b5e7-7bad509bc1a1)
 
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 1
