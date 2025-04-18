@@ -14,7 +14,7 @@
 ### [Unidad 1. Monitoreo de Deslizamientos y Evaluación del Riesgo](#unidad1)
 ### [Unidad 2. Observaciones Satelitales de Deslizamientos de Tierra](#unidad2)
 ### [Unidad 3. Datos Auxiliares](#unidad3)
-### [Unidad 4. Mapeo de la Ocurrencia de Deslizamientos Usando Observaciones de la Tierra](#unidad4)
+### [Unidad 4. Mapeo de la Ocurrencia de Deslizamientos Usando Observaciones Satelitales](#unidad4)
 ### [Unidad 5. Susceptibilidad a Deslizamientos](#unidad5)
 ### [Unidad 6. Modelos de Riesgo Dinámicos](#unidad6)
 ### [Trabajo Práctico 1](#tp1)
@@ -85,10 +85,10 @@
 </a>
 
 <a id="unidad4"></a>
-## Unidad 4. Mapeo de la Ocurrencia de Deslizamientos Usando Observaciones de la Tierra
+## Unidad 4. Mapeo de la Ocurrencia de Deslizamientos Usando Observaciones Satelitales
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c633ed6d-ea1b-4b2f-af75-a457d45bf1e1"width="600">
+  <img src="https://github.com/user-attachments/assets/caab9e07-e760-4e8b-9dd4-e524a2a9f5d0"width="600">
 </p> 
 
 
