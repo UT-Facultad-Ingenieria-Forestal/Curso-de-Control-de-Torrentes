@@ -174,6 +174,7 @@
  
   <a id="tp1"></a>
 ## Trabajo Práctico 1.
+### Mapeo Manual
 
 [NASA Landslide Viewer](https://maps.nccs.nasa.gov/arcgis/apps/experiencebuilder/experience/?id=29bd25e78fff45f0a6dbfd0328b4d03e)
 
@@ -189,7 +190,17 @@
 
 [Visualizador InSAR de deslizamientos (Earth Engine)](https://avannatijne.users.earthengine.app/view/landslide-insar)  
 
+### Mapeo Automático
+
 [Script de Earth Engine para detección de deslizamientos](https://code.earthengine.google.com/a75a9576aba88f3295186ac8fc27ba40)
+
+El I_ratio es la medida de cambio en la retrodispersión de la señal SAR (polarización VH) entre las imágenes pre-evento y post-evento. Específicamente:
+
+Se calcula para cada píxel como
+I_ratio = VH_preEvento − VH_postEvento
+Al tomar la diferencia, resaltamos aquellas áreas donde la superficie ha variado significativamente (por flujo de detritos o remoción de vegetación/suelo), porque la retrodispersión aumenta o disminuye abruptamente donde hay material movilizado.
+Después, aplicamos máscaras (agua y pendientes planas) para quedarnos solo con el terreno potencialmente susceptible, y a partir de ahí definimos un umbral (percentil 99) para extraer las zonas de deslizamiento potencial.
+En síntesis, el I_ratio es un índice de perturbación del terreno basado en SAR, muy sensible a cambios en la rugosidad y la presencia de material móvil tras un deslizamiento.
 
 
  
