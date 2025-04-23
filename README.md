@@ -206,7 +206,9 @@ Para cada píxel, el I_ratio se define como:
 I_ratio = VH_preEvento − VH_postEvento
 
 VH_preEvento: Mediana de la retrodispersión (banda VH) de Sentinel-1 en el periodo de 30 días antes del evento.
+
 VH_postEvento: Mediana de la retrodispersión (banda VH) de Sentinel-1 en el periodo de 30 días después del evento.
+
 Al restar ambas, resaltamos cambios significativos en la rugosidad del terreno y la presencia de material movilizado.
 
 Máscaras y Umbral
