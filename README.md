@@ -190,4 +190,13 @@
 [Visualizador InSAR de deslizamientos (Earth Engine)](https://avannatijne.users.earthengine.app/view/landslide-insar)  
 
 [Script de Earth Engine para detección de deslizamientos](https://code.earthengine.google.com/a75a9576aba88f3295186ac8fc27ba40)
+
+## Mapa de deslizamientos (KML)
+
+Para visualizar los deslizamientos en Google Earth:
+
+1. Descarga el archivo KML en tu máquina:
+   [⬇️ Descargar Landslides.kml](Landslides.kml)
+
+2. Ábrelo con Google Earth (o Google Earth Pro) y explora los puntos de deslizamiento.
  
