@@ -188,23 +188,55 @@
 
 [Google Earth (versión web)](https://www.google.es/intl/es/earth/index.html)  
 
-[Visualizador InSAR de deslizamientos (Earth Engine)](https://avannatijne.users.earthengine.app/view/landslide-insar)  
-
 ### Mapeo Automático
+
+[Visualizador InSAR de deslizamientos (Earth Engine)](https://avannatijne.users.earthengine.app/view/landslide-insar)  
 
 [Script de Earth Engine para detección de deslizamientos](https://code.earthengine.google.com/a75a9576aba88f3295186ac8fc27ba40)
 
-El I_ratio es la medida de cambio en la retrodispersión de la señal SAR (polarización VH) entre las imágenes pre-evento y post-evento. Específicamente:
+I_ratio
 
-Se calcula para cada píxel como
+Descripción
+
+El I_ratio es un índice de perturbación del terreno basado en datos SAR (polarización VH) que cuantifica el cambio en la retrodispersión entre dos periodos (pre-evento y post-evento). Es especialmente útil para detectar áreas afectadas por movimientos de masa, como deslizamientos y flujos de detritos.
+
+Cálculo
+
+Para cada píxel, el I_ratio se define como:
 
 I_ratio = VH_preEvento − VH_postEvento
 
-Al tomar la diferencia, resaltamos aquellas áreas donde la superficie ha variado significativamente (por flujo de detritos o remoción de vegetación/suelo), porque la retrodispersión aumenta o disminuye abruptamente donde hay material movilizado.
+VH_preEvento: Mediana de la retrodispersión (banda VH) de Sentinel-1 en el periodo de 30 días antes del evento.
 
-Después, aplicamos máscaras (agua y pendientes planas) para quedarnos solo con el terreno potencialmente susceptible, y a partir de ahí definimos un umbral (percentil 99) para extraer las zonas de deslizamiento potencial.
+VH_postEvento: Mediana de la retrodispersión (banda VH) de Sentinel-1 en el periodo de 30 días después del evento.
 
-En síntesis, el I_ratio es un índice de perturbación del terreno basado en SAR, muy sensible a cambios en la rugosidad y la presencia de material móvil tras un deslizamiento.
+Al restar ambas, resaltamos cambios significativos en la rugosidad del terreno y la presencia de material movilizado.
+
+Máscaras y Umbral
+
+Máscaras: Se aplican máscaras de agua y pendiente (>5°) para excluir zonas no relevantes.
+
+Umbral: Se calcula el percentil 99 de la distribución de I_ratio dentro del AOI. Aquellos píxeles con valores superiores a este umbral se marcan como posibles zonas de deslizamiento.
+
+Interpretación
+
+Valores altos de I_ratio indican un aumento de retrodispersión (posible acumulación de escombros o vegetación desplazada).
+
+Valores bajos (negativos) pueden señalar reducción de superficie reflectante o remoción de material.
+
+Aplicación
+
+Este índice permite:
+
+Detectar rápidamente áreas susceptibles a deslizamientos.
+
+Automatizar la delineación de zonas afectadas tras eventos extremos (lluvias intensas, terremotos).
+
+Integrarse en flujos de trabajo de monitoreo continuo usando Google Earth Engine.
+
+
+
+
 
 
  
