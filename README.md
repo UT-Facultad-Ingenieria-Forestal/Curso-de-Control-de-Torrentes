@@ -189,6 +189,9 @@
 
 [Visualizador InSAR de deslizamientos (Earth Engine)](https://avannatijne.users.earthengine.app/view/landslide-insar)  
 
+- [Abrir Landslides.kml en Google Earth](https://raw.githubusercontent.com/tu-usuario/tu-repo/main/Landslides.kml)  
+  > Al hacer clic, tu navegador descargará el KML. Si tienes asociada la extensión `.kml` con Google Earth, se abrirá automáticamente en la aplicación :contentReference[oaicite:0]{index=0}.
+
 [Script de Earth Engine para detección de deslizamientos](https://code.earthengine.google.com/a75a9576aba88f3295186ac8fc27ba40)
 
 
