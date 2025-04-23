@@ -196,7 +196,7 @@
 Para visualizar los deslizamientos en Google Earth:
 
 1. Descarga el archivo KML en tu máquina:
-   [⬇️ Descargar Landslides.kml](Landslides.kml)
+   [⬇️ Descargar Landslides.kml]([Landslides.kml](https://github.com/UT-Facultad-Ingenieria-Forestal/Curso-de-Correccion-de-Torrentes/blob/main/Landslides.kml))
 
 2. Ábrelo con Google Earth (o Google Earth Pro) y explora los puntos de deslizamiento.
  
