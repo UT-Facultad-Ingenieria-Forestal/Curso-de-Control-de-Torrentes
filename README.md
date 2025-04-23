@@ -175,3 +175,21 @@
   <a id="tp1"></a>
 ## Trabajo Práctico 1.
 
+[NASA Landslide Viewer](https://maps.nccs.nasa.gov/arcgis/apps/experiencebuilder/experience/?id=29bd25e78fff45f0a6dbfd0328b4d03e)
+
+[Conjunto de datos del Servicio Geológico Colombiano (SGC)](https://datos.sgc.gov.co/datasets/312c8792ddb24954a9d2711bd89d1afe_0/explore)
+
+[Mapa interactivo de NASA NCCS](https://maps.nccs.nasa.gov/arcgis/apps/experiencebuilder/experience/?id=29bd25e78fff45f0a6dbfd0328b4d03e)  
+
+[Conjunto de datos del Servicio Geológico Colombiano (SGC)](https://datos.sgc.gov.co/datasets/312c8792ddb24954a9d2711bd89d1afe_0/explore)  
+
+[EO Browser de Sentinel Hub](https://apps.sentinel-hub.com/eo-browser/)  
+
+[Google Earth (versión web)](https://www.google.es/intl/es/earth/index.html)  
+
+[Visualizador InSAR de deslizamientos (Earth Engine)](https://avannatijne.users.earthengine.app/view/landslide-insar)  
+
+[Script de Earth Engine para detección de deslizamientos](https://code.earthengine.google.com/a75a9576aba88f3295186ac8fc27ba40)
+
+
+ 
