@@ -194,14 +194,13 @@
 
 [Script de Earth Engine para detección de deslizamientos](https://code.earthengine.google.com/a75a9576aba88f3295186ac8fc27ba40)
 
-###I_ratio
+#### I_ratio
 
 Descripción
 
 El I_ratio es un índice de perturbación del terreno basado en datos SAR (polarización VH) que cuantifica el cambio en la retrodispersión entre dos periodos (pre-evento y post-evento). Es especialmente útil para detectar áreas afectadas por movimientos de masa, como deslizamientos y flujos de detritos.
 
 Cálculo
-
 Para cada píxel, el I_ratio se define como:
 
 I_ratio = VH_preEvento − VH_postEvento
